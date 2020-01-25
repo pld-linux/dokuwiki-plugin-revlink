@@ -1,6 +1,5 @@
 %define		plugin		revlink
 %define		php_min_version 5.3.0
-%include	/usr/lib/rpm/macros.php
 Summary:	DokuWiki revlink plugin
 Name:		dokuwiki-plugin-%{plugin}
 Version:	20090125
