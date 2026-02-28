@@ -3,7 +3,7 @@
 Summary:	DokuWiki revlink plugin
 Name:		dokuwiki-plugin-%{plugin}
 Version:	20090125
-Release:	1
+Release:	2
 License:	GPL v2
 Group:		Applications/WWW
 Source0:	http://www.dokuwiki.org/_export/code/plugin:revlink?codeblock=0&/syntax.php
